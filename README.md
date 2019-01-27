@@ -4,5 +4,5 @@ budding coder learning GitHub
 just-another-branch
 hubba bubba bubble gum fun
 practice until you master this.
-removed the sentence above "practice til you master this"
+getting pretty good at this committing and pushing
 
